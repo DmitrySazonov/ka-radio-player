@@ -71,4 +71,5 @@ To configure the radio in the settings under "SOUND SETTINGS" set it to I2S
 
 ## Control
 - Encoder rotation - volume control.
+- Press the encoder knob to start/stop playing
 - Press and turn the encoder to switch between stations.
