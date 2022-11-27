@@ -1,6 +1,6 @@
 # ka-radio-player
 This is a ka-radio player build project based on the ESP 32 and the UDA1334A DAC. The player uses the micro-usb connection as a power supply and has a mini-jack output for connecting to headphones or speakers.
-In the project there are 2 versions of cases: for the screen 0.96" and 2.42".
+There are 2 versions of cases in the project: for the screen 0.96" and 2.42".
 ![alt text](https://github.com/DmitrySazonov/ka-radio-player/blob/aa57e16a981c3e718910af9d376a0b30e7d48dfe/images/image01.jpeg?raw=true)
 
 Demo video: https://youtu.be/d_xDyBW4TkM
