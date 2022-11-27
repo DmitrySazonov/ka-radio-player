@@ -47,7 +47,8 @@ And add 1K resistor between **WSEL-GND**
 
 ## Player assembly
 
-The player body is printed on a 3-d printer.
+The player body is printed on a 3-d printer. Models for printing are in the **/stl** folder, select models according to the size of the display.
+
 For mount used:
 - M2.5x5 mm bolt (8pc) to mount the boards
 - M3x5 mm bolt (4pc) to mount the cap to case
