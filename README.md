@@ -3,6 +3,8 @@ This is a ka-radio player build project based on the ESP 32 and the UDA1334A DAC
 In the project there are 2 versions of cases: for the screen 0.96" and 2.42".
 ![alt text](https://github.com/DmitrySazonov/ka-radio-player/blob/aa57e16a981c3e718910af9d376a0b30e7d48dfe/images/image01.jpeg?raw=true)
 
+Demo video: https://youtu.be/d_xDyBW4TkM
+
 ## Components
 - ESP 32 38P - https://sl.aliexpress.ru/p?key=cSeExr8
 - UDA1334A DAC - https://sl.aliexpress.ru/p?key=o4eExBC
