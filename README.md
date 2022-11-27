@@ -69,3 +69,6 @@ It is recommended to use a good quality power supply, especially for the 2.42" d
 For more information about the firmware, see https://github.com/karawin/Ka-Radio32 or search for karadio32 guides on the internet.
 To configure the radio in the settings under "SOUND SETTINGS" set it to I2S
 
+## Control
+- Encoder rotation - volume control.
+- Press and turn the encoder to switch between stations.
