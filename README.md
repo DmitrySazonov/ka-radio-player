@@ -47,6 +47,11 @@ And add 1K resistor between **WSEL-GND**
 | KEY  | IO5    |
 | 5V   | 3V3    |
 
+## 3D Print options
+
+### Printing position
+![alt text](https://github.com/DmitrySazonov/ka-radio-player/blob/6cac8cc37e62230cf80ba3abce3fe80e388dbd4c/stl/print_position.png?raw=true)
+
 ## Player assembly
 
 The player body is printed on a 3-d printer. Models for printing are in the **/stl** folder, select models according to the size of the display.
