@@ -73,8 +73,13 @@ It is recommended to use a good quality power supply, especially for the 2.42" d
 
 ## Configuration
 
-For more information about the firmware, see https://github.com/karawin/Ka-Radio32 or search for karadio32 guides on the internet.
-To configure the radio in the settings under "SOUND SETTINGS" set it to I2S
+The project is based on the firmware [karadio32](https://github.com/karawin/Ka-Radio32)
+
+To flash it, just download the archive from the [release](https://github.com/karawin/Ka-Radio32/releases) page and flash it as specified in the [README](https://github.com/karawin/Ka-Radio32#first-use) of the project.
+
+For more information search for karadio32 guides on the internet.
+
+To configure the radio in the settings under *"SOUND SETTINGS"* set it to **I2S**
 
 ## Control
 - Encoder rotation - volume control.
