@@ -17,7 +17,7 @@ or
 
 ## Principal schema
 
-![alt text](https://github.com/DmitrySazonov/ka-radio-player/blob/aa57e16a981c3e718910af9d376a0b30e7d48dfe/iradio_schema.png?raw=true)
+![alt text](https://github.com/DmitrySazonov/ka-radio-player/blob/89df3c194219ddf57d0789007161f05c966c0ae5/stl/iradio_schema.png?raw=true)
 
 ### UDA1334A connection
 | UDA1334A | ESP 32 |
