@@ -3,6 +3,10 @@ This is a ka-radio player build project based on the ESP 32 and the UDA1334A DAC
 There are 2 versions of cases in the project: for the screen 0.96" and 2.42".
 ![alt text](https://github.com/DmitrySazonov/ka-radio-player/blob/aa57e16a981c3e718910af9d376a0b30e7d48dfe/images/image01.jpeg?raw=true)
 
+V2 version for 2.42 display
+
+![alt text](https://github.com/DmitrySazonov/ka-radio-player/blob/9e1745583cbf18860f8c5a05a4be7fac21672450/images/v2/image0.jpeg?raw=true)
+
 Demo video: https://youtu.be/d_xDyBW4TkM
 
 ## Components
@@ -60,6 +64,9 @@ For mount used:
 - M2.5x5 mm bolt (8pc) to mount the boards
 - M3x5 mm bolt (4pc) to mount the cap to case
 - M2.5x5 mm bolt (2pc or 4pc) to mount display to cap
+
+For v2 case mount:
+- M2.5x5 mm bolt (10pc) to mount the boards and case
 
 ## Connection
 
