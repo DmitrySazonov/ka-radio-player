@@ -38,8 +38,8 @@ And add 1K resistor between **WSEL-GND**
 | OLED Display | ESP 32 |
 |--------------|--------|
 | GND          | GND    |
-| VDD          | 3V3    |
-| SCK          | IO14   |
+| VDD / VCC    | 3V3    |
+| SCK / SLC    | IO14   |
 | SDA          | IO13   |
 
 ### Knob encoder connection
